@@ -13,6 +13,7 @@
 
 Upload your images to Interplanetary file system (IPFS) and see them.
 
-## Demo
+##!Much thanks to Talikis
 
-[Visit](https://ipfs.talaikis.com/upload)
+
+##IPFS image uploader was clone from https://ipfs.talaikis.com/upload and added to www.pobatag.com to allow users to upload their own NFT token images and metadata to pin.poba.app IPFS gateway. 
