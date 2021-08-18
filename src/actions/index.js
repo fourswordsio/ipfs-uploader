@@ -2,7 +2,7 @@ import IPFS from 'ipfs-mini'
 
 export function initIPFS(payload) {
   const ipfs = new IPFS({
-    host: 'ipfs.infura.io',
+    host: 'pin.poba.app',
     port: 5001,
     protocol: 'https'
   })
